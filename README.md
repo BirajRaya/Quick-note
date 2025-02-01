@@ -28,3 +28,13 @@ A clean and minimalist task management application built with React and Vite. Th
 ```bash
 git clone [your-repo-link]
 cd quick-notes
+
+2. Install dependencies:
+
+```bash
+Copynpm install
+
+3. Run the development server:
+```bash
+bashCopynpm run dev
+
