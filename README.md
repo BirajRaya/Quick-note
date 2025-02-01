@@ -30,11 +30,8 @@ git clone [your-repo-link]
 cd quick-notes
 
 2. Install dependencies:
-
-```bash
-Copynpm install
+npm install
 
 3. Run the development server:
-```bash
-bashCopynpm run dev
+npm run dev
 
