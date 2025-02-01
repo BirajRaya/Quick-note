@@ -26,6 +26,7 @@ A clean and minimalist task management application built with React and Vite. Th
 
 1. Clone the repository:
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/BirajRaya/Quick-note.git
 cd quick-notes
 
@@ -34,4 +35,10 @@ npm install
 
 3. Run the development server:
 npm run dev
+=======
+git clone [your-repo-link]
+cd quick-notes
+
+
+>>>>>>> ea1c42a (update readme.md)
 
